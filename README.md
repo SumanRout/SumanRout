@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI/ML,Backend,DSA,Calculus
 - 🌱 I’m currently learning Dsa,Frontend,Backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -->sumanrout824@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
